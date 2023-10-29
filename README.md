@@ -1,42 +1,43 @@
-# Portafolio Personal
+# Personal Portfolio
 
-## Descripción
-Este es mi portafolio personal, una página web diseñada para mostrar mi trabajo y habilidades a posibles empleadores y colaboradores. Incluye una variedad de proyectos, desde desarrollo web hasta diseño gráfico.
+## Description
+This is my personal portfolio, a website designed to showcase my work and skills to potential employers and collaborators. It includes a variety of projects, ranging from web development to graphic design.
 
 <!-- ## Capturas de Pantalla
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 ![Captura de Pantalla 2](screenshots/screenshot2.png) -->
 
-## Página
-Puedes ver mi portafolio en vivo en [https://www.tuportafolio.com](https://www.tuportafolio.com).
+## Page
+You can view my portfolio live at [https://caberbar.github.io/](https://caberbar.github.io/).
 
-## Instalación
-Si deseas clonar y ejecutar este proyecto en tu propio entorno, sigue estos pasos:
+## Installation
+If you want to clone and run this project in your own environment, follow these steps:
 
-1. Clona el repositorio:
+
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tuusuario/tuportafolio.git
+   git clone https://github.com/Caberbar/Caberbar.github.io
    ```
 
-2. Navega al directorio del proyecto:
+2. Navigate to the project directory:
 
    ```bash
    cd tuportafolio
    ```
 
-3. Abre el archivo `index.html` en tu navegador web.
+3. Open the index.html file in your web browser.
+   
+## Usage
+You can browse my portfolio to see my projects and learn more about my skills and experience. If you wish to get in touch with me, use the contact form on the contact page.
 
-## Uso
-Puedes navegar por mi portafolio para ver mis proyectos y conocer más sobre mis habilidades y experiencia. Si deseas ponerte en contacto conmigo, utiliza el formulario de contacto en la página de contacto.
-
-## Autor
-- Nombre: Carlos Bernal
-- Correo Electrónico: carlos.bernal.barrionuevo@gmail.com
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/carlos-bernal-barrionuevo-036326234/)
+## Author
+- Name: Carlos Bernal
+- Email: carlos.bernal.barrionuevo@gmail.com
+- LinkedIn: [Carlos Bernal Barrionuevo](https://www.linkedin.com/in/carlos-bernal-barrionuevo-036326234/)
 
 <!-- ## Licencia
 Este proyecto está bajo la Licencia MIT. Puedes encontrar más detalles en el archivo [LICENSE](LICENSE). -->
 
-## Contacto
-Si deseas ponerse en contacto conmigo para oportunidades laborales o colaboraciones, puedes enviarme un correo electrónico a [tu@email.com](mailto:carlos.bernal.barrionuevo@gmail.com) o completar el formulario de contacto en mi página web.
+## Contact
+If you want to get in touch with me for job opportunities or collaborations, you can email me at [carlos.bernal.barrionuevo@gmail.com](mailto:carlos.bernal.barrionuevo@gmail.com) or fill out the contact form on my website.
